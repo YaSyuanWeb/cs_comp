@@ -1,0 +1,17 @@
+body {
+	background: $bg_color;
+	color: $font_color
+}
+
+#{heading()}{
+	color: $blue_1st;
+	font-weight: $bold;
+}  
+
+strong {
+	font-weight:bold;	
+}
+
+p {
+	padding-bottom: 10px;
+}
